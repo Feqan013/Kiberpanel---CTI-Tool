@@ -27,6 +27,7 @@ python.exe TGscan.py ---- Dünənki tarixdə paylaşılan hesablar üçün(Task 
 ```
 İşləməsi üçün kodun ilk sətirlərində olan path-lar editlənməlidir. Tarix və fayl adı avtomatik olar hesaba əlavə edilir. Proses bitdikdən sonra yüklənmiş bütün fayllar silinir.
 ![Diagram1](https://github.com/Feqan013/TGscan/assets/63374185/10bbf34f-6fd6-4d33-a409-cc4b2db0139f)
+<img width="1079" height="1526" alt="342074667-10bbf34f-6fd6-4d33-a409-cc4b2db0139f" src="https://github.com/user-attachments/assets/b41d4a93-f19d-42fd-bd96-a84472f14aa2" />
 
 Yüklənmə prosesi:
 
