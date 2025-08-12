@@ -1,8 +1,17 @@
 # Kiberpanel - CTI Tool
 Telegram platformasında paylaşılan Azərbaycan veb resurslarına məxsus infostealer loglarını və kibertəhdid mesajlarını toplayaraq istifadəçiləri məlumatlandıran plarforma 
+# Kiberpanel - interfeys(demo versiya):
+Veb interfeys vasitəsilə SOC komandaları şirkətə məxsus məlumat sızmaları, son xəbərlər və CVE-lər haqqında məlumat toplaya bilərlər.
+Dashboard: Son xəbərlər və son məlumat sızmaları
+<img width="1659" height="902" alt="dashboard" src="https://github.com/user-attachments/assets/1ab560f1-145b-488e-abe7-abdb3f0b8317" />
+Logs: Loglar arasında axtarış funksiyası
+<img width="1653" height="889" alt="logs" src="https://github.com/user-attachments/assets/7ccfb1f5-d1a8-44ec-b0fe-6e260b9f20d3" />
+News: Xəbərlər
+<img width="1651" height="905" alt="news" src="https://github.com/user-attachments/assets/58ffc9dd-ca0b-4ad1-8cdc-2fd8cb7ceded" />
+CVEs: Boşluqlar
+<img width="1654" height="909" alt="cves" src="https://github.com/user-attachments/assets/9eef89b2-219d-455a-95e4-729687752a96" />
 
-Telegram CTI Tool
-2 funksiyaya sahibdir:
+Kiberpanel 2 funksiyaya sahibdir:
 1) Infostealer Data Collector
 2) Keyword Search - Alert
 
