@@ -2,6 +2,7 @@
 Telegram platformasında paylaşılan Azərbaycan veb resurslarına məxsus infostealer loglarını və kibertəhdid mesajlarını toplayaraq istifadəçiləri məlumatlandıran plarforma 
 # Kiberpanel - interfeys(demo versiya):
 Veb interfeys vasitəsilə SOC komandaları şirkətə məxsus məlumat sızmaları, son xəbərlər və CVE-lər haqqında məlumat toplaya bilərlər.
+
 Dashboard: Son xəbərlər və son məlumat sızmaları
 <img width="1659" height="902" alt="dashboard" src="https://github.com/user-attachments/assets/1ab560f1-145b-488e-abe7-abdb3f0b8317" />
 Logs: Loglar arasında axtarış funksiyası
@@ -32,7 +33,11 @@ python.exe TGscan.py ---- Dünənki tarixdə paylaşılan hesablar üçün(Task 
 Yüklənmə prosesi:
 
 
-https://github.com/Feqan013/TGscan/assets/63374185/45986bf4-3e4a-4d1f-a5cd-48b67f8c870b
+
+
+https://github.com/user-attachments/assets/4d715f8b-44f1-46c5-b346-6be6324ef63b
+
+
 # 2)Keyword Search
 APT və Hacker qruplarında hədəf keywordlərlə bağlı yeni mesaj paylaşıldığı zaman telegram üzərindən bot vasitəsilə mesaj göndərərək məlumatlandırır. DDOS hücumları və data breachlər haqqında tez məlumat almaq üçün istifadə edilir. Standart olaraq 5 dəqiqə intervalla axtarış edir. 7/24 işləməsi üçün nəzərdə tutlub.
 İstifadə etmək üçün -k flagindən istifadə edilir:
@@ -40,9 +45,11 @@ APT və Hacker qruplarında hədəf keywordlərlə bağlı yeni mesaj paylaşıl
 python.exe TGscan.py -k ".az" "Azerbaijani" "test.az" ---- Göstərilən keywordlərlə bağlı hər-hansısa yeni mesaj paylaşılarsa istifadəçi məlumatlandırılacaq.
 ```
 Axtarış prosesi:
-![image](https://github.com/Feqan013/TGscan/assets/63374185/1e7690f1-0ac2-443b-899d-192ce32664d3)
+<img width="1339" height="767" alt="342078532-1e7690f1-0ac2-443b-899d-192ce32664d3" src="https://github.com/user-attachments/assets/dddd442b-9301-43d9-b25d-8b1c60fe47cd" />
+
 Mesaj aşkar edildikdə botun göndərdiyi xəbərdarlıq(mesaj kontenti və ekran görüntüsü)
-![image](https://github.com/Feqan013/TGscan/assets/63374185/c6d1e842-0879-4ab6-b373-a2a2286c4194)
+
+<img width="996" height="956" alt="342078605-c6d1e842-0879-4ab6-b373-a2a2286c4194" src="https://github.com/user-attachments/assets/33c636ef-6d1b-476e-b76f-685c1abcd9d5" />
 
 
 
